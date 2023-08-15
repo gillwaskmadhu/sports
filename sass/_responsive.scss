@@ -1,0 +1,182 @@
+@media only screen and (min-width: 320px) and (max-width: 576px) {
+
+    .navbar {
+        background-color: black;
+
+        .logo_div {
+            justify-content: center;
+        }
+
+        .navbar-brand {
+            img {
+                width: 200px;
+                height: auto;
+            }
+        }
+    }
+
+    .count {
+        margin: 20px 0px;
+
+        .count_one {
+            border: 3px solid #faee42;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+    }
+
+    .about {
+        margin-top: 75px;
+    }
+
+    .banner {
+        .banner_det {
+            width: 100%;
+        }
+    }
+
+    .about {
+        .abt_img {
+            img {
+                width: 335px;
+                height: auto;
+            }
+        }
+
+        .det_col {
+            .abt_details {
+                padding: 0px;
+                margin-top: 50px;
+            }
+        }
+    }
+
+    .four_det {
+        margin: 50px 0px;
+    }
+
+    .prdct {
+        margin-bottom: 50px;
+    }
+
+    .slider {
+        margin-bottom: 50px;
+    }
+
+    footer {
+        .foot_wrap {
+            justify-content: center;
+
+            a {
+                img {
+                    margin-bottom: 15px;
+                }
+            }
+
+            ul {
+                margin-bottom: 15px;
+            }
+        }
+    }
+
+
+}
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .navbar {
+        background-color: black;
+
+        .logo_div {
+            justify-content: center;
+        }
+
+        .navbar-brand {
+            img {
+                width: 200px;
+                height: auto;
+            }
+        }
+    }
+
+    .count {
+        margin: 20px 0px;
+
+        .count_one {
+            border: 3px solid #faee42;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+    }
+
+    .about {
+        margin-top: 75px;
+
+        .abt_img {
+            width: 100%;
+
+            img {
+                width: 430px;
+                height: auto;
+                right: 0;
+            }
+        }
+    }
+
+    .banner {
+        height: 500px;
+
+        .banner_det {
+            width: 75%;
+        }
+    }
+
+    .about {
+        .abt_img {
+            img {
+                width: 575px;
+                height: auto;
+            }
+        }
+
+        .det_col {
+            .abt_details {
+                padding: 0px;
+                margin-top: 50px;
+            }
+        }
+    }
+
+    .four_det {
+        margin: 50px 0px;
+    }
+
+    .prdct {
+        margin-bottom: 50px;
+    }
+
+    .slider {
+        margin-bottom: 50px;
+    }
+
+    footer {
+        .foot_wrap {
+            justify-content: center;
+
+            a {
+                img {
+                    margin-bottom: 15px;
+                }
+            }
+
+            ul {
+                margin-bottom: 15px;
+            }
+        }
+    }
+
+
+}
